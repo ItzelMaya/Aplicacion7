@@ -25,6 +25,5 @@
 
    
    <!--colocar icono app -->
-   
-<icon src="res/android/arma-icon.png"/>
+   <icon src="res/android/gun.png"/>
 </widget>
