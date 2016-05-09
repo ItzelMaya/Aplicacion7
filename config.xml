@@ -7,10 +7,10 @@
 	
    <!--VersionCode es opcional y Android only -->
    
-   <name>Batalla del 4 y 5 del Mayo</name>
+   <name>Batalla del 4 y 5 de Mayo</name>
    
    <description>
-	 Aplicacion que muestra informacion de la Batalla del 4 y 5 de Mayo.
+	 Aplicacion que muestra información de la Batalla del 4 y 5 de Mayo
    </description>
    
    <preference name="phonegap-version" value="3.1.0"/>
